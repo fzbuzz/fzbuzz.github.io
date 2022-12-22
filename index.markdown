@@ -2,20 +2,23 @@
 layout: index
 title: Felix Zhang
 ---
+[![](https://img.shields.io/badge/Fel9z-222021.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/fel9z)
+[![](https://img.shields.io/badge/Fe-222021.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/~fe)
+[![](https://img.shields.io/badge/Felix44-222021.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felix44@ucla.edu)
+[![](https://img.shields.io/badge/Resume-222021.svg?style=for-the-badge&logo=&logoColor=white)]({{ site.url }}/media/resume.pdf)
+
 
 Hi! I'm a Masters Student at UCLA studying Computer Science with a specialization in Artificial Intelligence. 👋
 
 I'm particularly interested in Generative AI, specifically interacting with large pretrained models in controllable and creative ways.
 
-Right now, I'm writing my Masters Thesis at PLUS Lab, advised by [Professor Violet Peng](https://vnpeng.net/). 🙇🏻‍♂️
+Right now, I'm writing my Masters Thesis at PLUS Lab, advised by [Professor Violet Peng](https://vnpeng.net/).
 
--- 
-
-Here are some of my recent <span style="color:pink">[projects](_posts/2022-12-21-welcome-to-jekyll.markdown)</span> I have been working on for fun 🤩. For a concise summary, here is my [resume]({{ site.url }}/media/resume.pdf). Feel free to connect with me on [Linkedin](https://linkedin.com/in/~fe) or [Twitter](https://twitter.com/fel9z).
+Here are some <span style="color:pink">[projects](_posts/2022-12-21-welcome-to-jekyll.markdown)</span> I have been working on 🤩.
 
 # Experience
 
-I have been blessed with the opportunity to dive into AI/ML in a lot of cool settings. Thank you to all the mentors who have taught me everything I know. In particular, thank you to _[Simram Motwani](https://www.linkedin.com/in/simran-motwani), [Mark Edmonds](https://www.linkedin.com/in/mjedmonds/), & [Sorab Bhardwaj](https://www.linkedin.com/in/sorabb)_.
+Thank you to all the mentors who have taught me everything I know. In particular, thank you to _[Simram Motwani](https://www.linkedin.com/in/simran-motwani), [Mark Edmonds](https://www.linkedin.com/in/mjedmonds/), & [Sorab Bhardwaj](https://www.linkedin.com/in/sorabb)_.
 ## Internships
 
 |-|:-:|
