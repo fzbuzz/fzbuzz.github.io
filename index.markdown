@@ -22,15 +22,15 @@ Thank you to all the mentors who have taught me everything I know. In particular
 ## Internships
 
 |-|:-:|
-|[Verkada]() (_Computer Vision Team_) | Summer 2022    |
-| [Meta AI]() (_Applied AI & Multimodality Team_)   | Spring 2022        |
-| [Honey]() (_Travel Team_)     | Summer 2019        |
+|Verkada (_Computer Vision Team_) | Summer 2022    |
+| Meta AI (_Applied AI & Multimodality Team_)   | Spring 2022        |
+| Honey (_Travel Team_)     | Summer 2019        |
 
 ## Research Involvement
 
-| [PLUS Lab]() (Current)| 2022-     |
-| [VCLA Lab]()   | 2021       |
-| [Zaitlen Lab]()  | 2020        |
+| PLUS Lab (Current)| 2022-     |
+| VCLA Lab   | 2021       |
+| Zaitlen Lab  | 2020        |
 
 
 # Education
