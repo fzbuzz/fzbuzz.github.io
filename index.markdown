@@ -12,9 +12,9 @@ Hi! I'm a Masters Student at UCLA studying Computer Science with a specializatio
 
 I'm particularly interested in Generative AI, specifically interacting with large pretrained models in controllable and creative ways.
 
-Right now, I'm writing my Masters Thesis at PLUS Lab, advised by [Professor Violet Peng](https://vnpeng.net/).
+Right now, I'm writing my Masters Thesis at PLUS Lab, advised by [Professor Violet Peng](https://vnpeng.net/). We are working on guiding LLMs with Knowledge Graphs.
 
-Here are some <span style="color:pink">[projects](_posts/2022-12-21-welcome-to-jekyll.markdown)</span> I have been working on 🤩.
+Here are some <span style="color:pink">[projects]({{ site.url }}/projects/main.html)</span> I'm proud of building 🤩.
 
 # Experience
 
