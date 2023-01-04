@@ -33,5 +33,6 @@ github_username:  jekyll
 include:
   - _media
   - _projects
+  - _documents
 # Build settings
 remote_theme: jez/tufte-pandoc-jekyll
