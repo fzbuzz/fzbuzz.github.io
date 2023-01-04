@@ -5,7 +5,7 @@ title: Felix Zhang
 [![](https://img.shields.io/badge/Fel9z-222021.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/fel9z)
 [![](https://img.shields.io/badge/Fe-222021.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/~fe)
 [![](https://img.shields.io/badge/Felix44-222021.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felix44@ucla.edu)
-[![](https://img.shields.io/badge/Resume-222021.svg?style=for-the-badge&logo=&logoColor=white)]({{ site.url }}/media/resume.pdf)
+[![](https://img.shields.io/badge/Resume-222021.svg?style=for-the-badge&logo=&logoColor=white)]({{ site.url }}/documents/resume.pdf)
 
 
 Hi! I'm a Masters Student at UCLA studying Computer Science with a specialization in Artificial Intelligence. 👋
