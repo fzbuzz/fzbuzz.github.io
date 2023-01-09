@@ -3,7 +3,7 @@ layout: page
 title:  "TI Embedding - Tungsten Film ✨"
 categories: jekyll update
 ---
-Available on: [Hugging Face 🤗](https://huggingface.co/fzbuzz/TungstenDispo-embedding-sd-v2-768) & [CivitAI](https://civitai.com/models/3447) (300+ Downloads)
+Available on: [Hugging Face 🤗](https://huggingface.co/fzbuzz/TungstenDispo-embedding-sd-v2-768) & [CivitAI](https://civitai.com/models/3447) (600+ Downloads)
 
 
 ![]({{ site.url }}/media/people_highqual.jpeg)
