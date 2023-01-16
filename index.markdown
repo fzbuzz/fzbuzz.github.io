@@ -12,7 +12,7 @@ Hi! I'm a Masters Student at UCLA studying Computer Science with a specializatio
 
 I'm particularly interested in Generative AI, specifically interacting with large pretrained models in controllable and creative ways.
 
-Right now, I'm writing my Masters Thesis at PLUS Lab, advised by [Professor Violet Peng](https://vnpeng.net/). We are working on guiding Language Mdoels with Knowledge Graphs and Commonsensical Concept-Based Metrics.
+Right now, I'm writing my Masters Thesis at PLUS Lab, advised by [Professor Violet Peng](https://vnpeng.net/). We are working on guiding Language Models with Knowledge Graphs and Concept-Based Commonsense Metrics.
 
 Here are some <span style="color:pink">[projects]({{ site.url }}/projects/main.html)</span> I'm proud of building 🤩.
 
