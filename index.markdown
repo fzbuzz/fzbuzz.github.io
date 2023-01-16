@@ -12,7 +12,7 @@ Hi! I'm a Masters Student at UCLA studying Computer Science with a specializatio
 
 I'm particularly interested in Generative AI, specifically interacting with large pretrained models in controllable and creative ways.
 
-Right now, I'm writing my Masters Thesis at PLUS Lab, advised by [Professor Violet Peng](https://vnpeng.net/). We are working on guiding LLMs with Knowledge Graphs.
+Right now, I'm writing my Masters Thesis at PLUS Lab, advised by [Professor Violet Peng](https://vnpeng.net/). We are working on guiding Language Mdoels with Knowledge Graphs and Commonsensical Concept-Based Metrics.
 
 Here are some <span style="color:pink">[projects]({{ site.url }}/projects/main.html)</span> I'm proud of building 🤩.
 
@@ -23,7 +23,7 @@ Thank you to all the mentors who have taught me everything I know. In particular
 
 |-|:-:|
 |Verkada (_Computer Vision Team_) | Summer 2022    |
-| Meta AI (_Applied AI & Multimodality Team_)   | Spring 2022        |
+| Facebook AI (_Applied AI & Multimodality Team_)   | Spring 2022        |
 | Honey (_Travel Team_)     | Summer 2019        |
 
 ## Research Involvement
