@@ -10,7 +10,7 @@ title: Felix Zhang
 
 Hi! I'm a Masters Student at UCLA studying Computer Science with a specialization in Artificial Intelligence. 👋
 
-I'm particularly interested in Generative AI, specifically interacting with large pretrained models in controllable and creative ways.
+I'm interesting in building complex, reliable systems for a beautiful product that helps people! 🤖
 
 Right now, I'm writing my Masters Thesis at PLUS Lab, advised by [Professor Violet Peng](https://vnpeng.net/). We are working on guiding Language Models with Knowledge Graphs and Concept-Based Commonsense Metrics.
 
